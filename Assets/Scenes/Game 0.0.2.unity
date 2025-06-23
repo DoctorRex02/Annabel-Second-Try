@@ -24692,6 +24692,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 499566781535925001, guid: 23478692972087d4bb75aa03dd3965cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 684252217255784471, guid: 23478692972087d4bb75aa03dd3965cc, type: 3}
       propertyPath: sprite
       value: 
@@ -98745,7 +98749,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8322102579380277559, guid: 5e2fcb55ca078b84ea9e73d4ed6a5beb, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8468093870456414497, guid: 5e2fcb55ca078b84ea9e73d4ed6a5beb, type: 3}
       propertyPath: m_Layer
@@ -102940,6 +102944,10 @@ PrefabInstance:
       propertyPath: Target.TrackingTarget
       value: 
       objectReference: {fileID: 1069389414}
+    - target: {fileID: 560664433336529461, guid: 7ab68f87cb00b2244b70b2092acdd8c9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 846645612057703029, guid: 7ab68f87cb00b2244b70b2092acdd8c9, type: 3}
       propertyPath: m_Size.y
       value: 2.3507633
@@ -102963,6 +102971,10 @@ PrefabInstance:
     - target: {fileID: 1215070625621431898, guid: 7ab68f87cb00b2244b70b2092acdd8c9, type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1500738881455388179, guid: 7ab68f87cb00b2244b70b2092acdd8c9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1703910089203465942, guid: 7ab68f87cb00b2244b70b2092acdd8c9, type: 3}
       propertyPath: Target.TrackingTarget
@@ -103552,6 +103564,10 @@ PrefabInstance:
       propertyPath: Target.TrackingTarget
       value: 
       objectReference: {fileID: 1069389414}
+    - target: {fileID: 6272830018612475023, guid: 7ab68f87cb00b2244b70b2092acdd8c9, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6300665470958147711, guid: 7ab68f87cb00b2244b70b2092acdd8c9, type: 3}
       propertyPath: Target.TrackingTarget
       value: 
@@ -103559,6 +103575,10 @@ PrefabInstance:
     - target: {fileID: 6351254155089269265, guid: 7ab68f87cb00b2244b70b2092acdd8c9, type: 3}
       propertyPath: m_Name
       value: TileMap1.0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6351254155089269265, guid: 7ab68f87cb00b2244b70b2092acdd8c9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6360443829897874796, guid: 7ab68f87cb00b2244b70b2092acdd8c9, type: 3}
       propertyPath: m_Size.y
